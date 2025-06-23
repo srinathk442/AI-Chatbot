@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot — Next.js + OpenAI GPT-3.5
+# AI Chatbot — Next.js + OpenAI GPT-3.5
 
 This is a modern AI chatbot web application built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**, powered by **OpenAI's GPT-3.5 model**. It offers a clean, responsive interface that allows users to engage in intelligent, real-time conversations with an AI assistant.
 
